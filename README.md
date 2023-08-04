@@ -1,0 +1,2 @@
+# chameleon_service
+service_of_terms,privacy_policy
