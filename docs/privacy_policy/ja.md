@@ -83,5 +83,4 @@ yama（以下，「当方」といいます。）は，本アプリ上で提供�
 
 本サービスでは、Firebase(Google Inc.) を利用しております。Firebase(Google Inc.) によりご利用の情報を自動取得する場合がございます。取得されたデータは、以下の[Googleプライバシーポリシーリンク](https://policies.google.com/privacy?hl=ja)のリンクよりご確認ください。
 
-
 以上
